@@ -17,11 +17,8 @@
 |Original Lyrics | Replacement Lyrics|
 |--------------------------- | ---------------------------|
 |There once was a ship that put to sea<br>And the name of that ship was the Billy o' Tea<br>The winds blew hard, her bow dipped down<br>Blow, me bully boys, blow (huh)|There once was a class, a sight to see<br>the twenty eight cohort RPP<br>The sprints were hard, some got them down<br>code, me problem toys, code (huh)|
-
-> Soon may the Wellerman come  
-> To bring us sugar and tea and rum  
-> One day, when the tonguing' is done  
-> We'll take our leave and go  
+|Soon may the Wellerman come<br>To bring us sugar and tea and rum<br>One day, when the tonguing' is done<br>We'll take our leave and go|LinkedIn decides our fate<br>Kitchen time, don't be late!<br>Push code, verbose mode<br>We're cohort twenty eight!|
+|
 
 > She had not been two weeks from shore  
 > When down on her a right whale bore  
