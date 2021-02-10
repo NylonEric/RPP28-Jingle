@@ -4,7 +4,13 @@
 * Make new lyrics to already existing song
 * Public domain music
 * Lots of options for various experience/musical comfort
-
+## Submission Materials:
+* audio recordings:
+* video recording:
+* still photos:
+* lyric drafting:
+* other contribution?
+## Video Example:
 [![video of sea shanty song](http://img.youtube.com/vi/UgsurPg9Ckw/0.jpg)](http://www.youtube.com/watch?v=UgsurPg9Ckw "Sea Shanty")
 
 ## Lyrics
