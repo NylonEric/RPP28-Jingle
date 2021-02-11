@@ -1,15 +1,18 @@
 # RPP28-Jingle
-
+Hey friends! Let's get together and make the best Hack Reactor Jingle ever! Whether you are comfortable singing/performing or not, we can use some contribution to the final video product!
 ## Best chance of MVP/success:
 * Make new lyrics to already existing song
 * Public domain music
 * Lots of options for various experience/musical comfort
-## Submission Materials:
+## Submission Materials Ideas:
 * audio recordings:
 * video recording:
 * still photos:
 * lyric drafting:
 * other contribution?
+## Submission form: 
+https://forms.gle/5Ps3kKxDUyvJf93M7
+
 ## Video Example:
 [![video of sea shanty song](http://img.youtube.com/vi/UgsurPg9Ckw/0.jpg)](http://www.youtube.com/watch?v=UgsurPg9Ckw "Sea Shanty")
 
