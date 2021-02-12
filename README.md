@@ -10,9 +10,11 @@ Hey friends! Let's get together and make the best Hack Reactor Jingle ever! Whet
 * still photos:
 * lyric drafting:
 * other contribution?
-## Submission form: 
+## Submission Signup Form: 
 https://forms.gle/5Ps3kKxDUyvJf93M7
 
+## Proposed Production Shedule:
+https://docs.google.com/spreadsheets/d/1RIWBG2syTy7vHJWKUpMKGDMfyKuRaiVY3lM3QzKgaeA/edit#gid=0
 ## Video Example:
 [![video of sea shanty song](http://img.youtube.com/vi/UgsurPg9Ckw/0.jpg)](http://www.youtube.com/watch?v=UgsurPg9Ckw "Sea Shanty")
 
