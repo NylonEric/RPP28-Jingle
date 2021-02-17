@@ -21,7 +21,7 @@
 |Soon may the Wellerman come<br>To bring us sugar and tea and rum<br>One day, when the tonguing' is done<br>We'll take our leave and go|LinkedIn decides our fate<br>Kitchen time, don't be late!<br>Push code, verbose mode<br>We're cohort twenty eight!|
 
 
-|She had not been two weeks from shore<br>When down on her a right whale bore<br>The captain called all hands and swore<br>He'd take that whale in tow (huh)| Our lives had been such bores<br>When we came to explore<br>Precourse came and opened the door<br>To a world of so much mo'<br>|
+|She had not been two weeks from shore<br>When down on her a right whale bore<br>The captain called all hands and swore<br>He'd take that whale in tow (huh)| Before our lives had been such bores<br>We saw the ad and then explored<br>Precourse came and opened the door<br>To worlds of so much mo'<br>|
 
 |Soon may the Wellerman come<br>To bring us sugar and tea and rum<br>One day, when the tonguing' is done<br>We'll take our leave and go|LinkedIn decides our fate<br>Kitchen time, don't be late!<br>Push code, verbose mode<br>We're cohort twenty eight!|
 
