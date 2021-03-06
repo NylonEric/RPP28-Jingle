@@ -10,7 +10,7 @@ Hey friends! Let's get together and make the best Hack Reactor Jingle ever! Whet
 * still photos:
 * lyric drafting:
 * other contribution?
-## Submission Signup Form: 
+## Submission Signup Form:
 https://forms.gle/5Ps3kKxDUyvJf93M7
 
 ## Proposed Production Shedule:
@@ -37,3 +37,9 @@ https://musescore.com/user/173124/scores/5980505
 [wiki] https://en.wikipedia.org/wiki/Soon_May_the_Wellerman_Come
 
 [recording] https://wellingtonseashantysociety.bandcamp.com/track/soon-may-the-wellerman-come
+
+
+|She had not been two weeks from shore<br>When down on her a right whale bore<br>The captain called all hands and swore<br>He'd take that whale in tow (huh)|Careers we wanted to uplift<br>We went and turned to Javascript<br>You can tell by our code<br>we love our ECMA6|
+
+
+
