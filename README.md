@@ -33,10 +33,7 @@ https://docs.google.com/spreadsheets/d/1RIWBG2syTy7vHJWKUpMKGDMfyKuRaiVY3lM3QzKg
 |Soon may the Wellerman come<br>To bring us sugar and tea and rum<br>One day, when the tonguing' is done<br>We'll take our leave and go|LinkedIn decides our fate<br>Kitchen time, don't be late!<br>Push code, verbose mode<br>We're cohort twenty eight, Huh!|
 
 ## Music Notation
-https://drive.google.com/file/d/1tpysEej0kRcCN2xditCw0IKU20p5EV5F/view?usp=sharing
-<iframe src="https://docs.google.com/viewer?srcid=1tpysEej0kRcCN2xditCw0IKU20p5EV5F&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="580px" height="480px"></iframe>
-
-
+https://github.com/NylonEric/RPP28-Jingle/blob/master/RPP28_Sea_Shanty_AMinor.pdf
 
 
 ## References
