@@ -34,7 +34,8 @@ https://docs.google.com/spreadsheets/d/1RIWBG2syTy7vHJWKUpMKGDMfyKuRaiVY3lM3QzKg
 
 ## Music Notation
 https://drive.google.com/file/d/1tpysEej0kRcCN2xditCw0IKU20p5EV5F/view?usp=sharing
-<iframe src="https://docs.google.com/viewer?srcid=https://drive.google.com/file/d/1tpysEej0kRcCN2xditCw0IKU20p5EV5F/view?usp=sharing&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="580px" height="480px"></iframe>
+<iframe src="https://docs.google.com/viewer?srcid=1tpysEej0kRcCN2xditCw0IKU20p5EV5F&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="580px" height="480px"></iframe>
+
 
 
 
