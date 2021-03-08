@@ -33,7 +33,10 @@ https://docs.google.com/spreadsheets/d/1RIWBG2syTy7vHJWKUpMKGDMfyKuRaiVY3lM3QzKg
 |Soon may the Wellerman come<br>To bring us sugar and tea and rum<br>One day, when the tonguing' is done<br>We'll take our leave and go|LinkedIn decides our fate<br>Kitchen time, don't be late!<br>Push code, verbose mode<br>We're cohort twenty eight, Huh!|
 
 ## Music Notation
-https://musescore.com/user/173124/scores/5980505
+https://drive.google.com/file/d/1tpysEej0kRcCN2xditCw0IKU20p5EV5F/view?usp=sharing
+<iframe src="https://docs.google.com/viewer?srcid=https://drive.google.com/file/d/1tpysEej0kRcCN2xditCw0IKU20p5EV5F/view?usp=sharing&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="580px" height="480px"></iframe>
+
+
 
 ## References
 [wiki] https://en.wikipedia.org/wiki/Soon_May_the_Wellerman_Come
