@@ -53,6 +53,8 @@ https://github.com/NylonEric/RPP28-Jingle/blob/master/media/metronome.mp3
 [![video of RPP28 Sea Shanty Part 3](http://img.youtube.com/vi/QedBA2Qbwwg/0.jpg)](http://www.youtube.com/watch?v=QedBA2Qbwwg "RPP28 Shanty Part 3")
 * Chorus Part 4
 [![video of RPP28 Sea Shanty Part 4](http://img.youtube.com/vi/fLqKmglMIAU/0.jpg)](http://www.youtube.com/watch?v=fLqKmglMIAU "RPP28 Shanty Part 4")
+* Chorus All Parts
+[![video of RPP28 Sea Shanty All Parts](http://img.youtube.com/vi/ldYjKlxeDOE/0.jpg)](http://www.youtube.com/watch?v=ldYjKlxeDOE "RPP28 Shanty All Parts")
 * Sample Verse
 [![video of RPP28 Sea Shanty Sample Verses](http://img.youtube.com/vi/ezqdINbnDso/0.jpg)](http://www.youtube.com/watch?v=ezqdINbnDso "RPP28 Shanty Sample Verses")
 ## References
