@@ -35,7 +35,26 @@ https://docs.google.com/spreadsheets/d/1RIWBG2syTy7vHJWKUpMKGDMfyKuRaiVY3lM3QzKg
 ## Music Notation
 https://github.com/NylonEric/RPP28-Jingle/blob/master/RPP28_Sea_Shanty_AMinor.pdf
 
+## Reference Audio
+* MIDI Full Score:
+https://github.com/NylonEric/RPP28-Jingle/blob/master/media/Wellerman_RPP28_AMinor.mp3
+* Metronome.mp3:
+https://github.com/NylonEric/RPP28-Jingle/blob/master/media/metronome.mp3
 
+## Reference Video
+* Here are some ROUGH references to listen to as you record yours. Follow the metronome!
+* Chorus Melody 
+[![video of RPP28 Sea Shanty](http://img.youtube.com/vi/CWRqAf6zrCw/0.jpg)](http://www.youtube.com/watch?v=CWRqAf6zrCw "RPP28 Shanty")
+* Chorus Part 1
+[![video of RPP28 Sea Shanty Part 1](http://img.youtube.com/vi/x0NqzwrH8Uw/0.jpg)](http://www.youtube.com/watch?v=x0NqzwrH8Uw "RPP28 Shanty Part 1")
+* Chorus Part 2
+[![video of RPP28 Sea Shanty Part 2](http://img.youtube.com/vi/FjVNtejYJIQ/0.jpg)](http://www.youtube.com/watch?v=FjVNtejYJIQ "RPP28 Shanty Part 2")
+* Chorus Part 3
+[![video of RPP28 Sea Shanty Part 3](http://img.youtube.com/vi/QedBA2Qbwwg/0.jpg)](http://www.youtube.com/watch?v=QedBA2Qbwwg "RPP28 Shanty Part 3")
+* Chorus Part 4
+[![video of RPP28 Sea Shanty Part 4](http://img.youtube.com/vi/fLqKmglMIAU/0.jpg)](http://www.youtube.com/watch?v=fLqKmglMIAU "RPP28 Shanty Part 4")
+* Sample Verse
+[![video of RPP28 Sea Shanty Sample Verses](http://img.youtube.com/vi/ezqdINbnDso/0.jpg)](http://www.youtube.com/watch?v=ezqdINbnDso "RPP28 Shanty Sample Verses")
 ## References
 [wiki] https://en.wikipedia.org/wiki/Soon_May_the_Wellerman_Come
 
